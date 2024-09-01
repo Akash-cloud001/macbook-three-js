@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Scene from "./components/Scene";
 import PlayIcon from "./components/svgs/PlayIcon";
 import PauseIcon from "./components/svgs/PauseIcon";
-import Mute from "./components/svgs/mute";
+import Mute from "./components/svgs/Mute";
 import Unmute from "./components/svgs/Unmute";
 import ScrollDown from "./components/svgs/ScrollDown";
 
